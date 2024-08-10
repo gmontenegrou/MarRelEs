@@ -1,6 +1,6 @@
 # MarRelEs
 
-# Conceptual relation markers in spanish specialized corpora
+Conceptual relation markers in spanish specialized corpora
 
 ## Overview
 
